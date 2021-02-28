@@ -1,3 +1,3 @@
 # web-scraping-challenge
 
-This assignment was and is extremely challenging. I'm working on putting together a full assignment. 
+This challenging assignment focuses on scraping the News section of the NASA website (https://mars.nasa.gov/#) and printing it to a website. 
